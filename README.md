@@ -1,5 +1,7 @@
 # This file will explain each of the file brieftly and shows how to run the project
 
+# Github Repository: https://github.com/AldenSiaZhengHeng/COMP3004_20196637.git
+
 # Thet project is run in below python libraries in MAC M1 Environment:
 1. Python 3.10.5
 2. torch 2.0.0
