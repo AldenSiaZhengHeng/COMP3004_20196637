@@ -188,6 +188,7 @@ class TD3(object):
 
 		# you can modify the path to load model from specific directory by adding the file path such as "file_path/models/ppo_actor{}.pth" and "file_path/models/ppo_q_critic{}.pth"
 		# This will load the model that trained with large experience data
+		# Uncomment this and comment the above part if run the models from other file
 		# self.actor.load_state_dict(torch.load("exp/exp_1/models/ppo_actor{}.pth".format(episode), map_location=torch.device('cpu')))
 		# self.q_critic.load_state_dict(torch.load("exp/exp_1/models/ppo_q_critic{}.pth".format(episode), map_location=torch.device('cpu')))
 		print("****load checkpoint****")
