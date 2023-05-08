@@ -16,7 +16,7 @@
 -----------------------------------------
 Preparation of environment to run the project:
 1. The project is run on python virtual environment by entering:
-    **You can create your own virtual environment, this project is run on virtual environment that called td3**
+    - **You can create your own virtual environment, this project is run on virtual environment that called td3**
     - 'python -m venv td3' #Create new virtual environment
     - 'source td3/bin/activate' #This is to activate the virtual environment
 
@@ -24,8 +24,8 @@ Preparation of environment to run the project:
 
 -----------------------------------------
 # How to run the project
-**There is some adjustment might need to make like uncomment and comment certain function in different folder before run the file**
-**These adjustment had already state in each file as comment clearly, please reference to it**
+- **There is some adjustment might need to make like uncomment and comment certain function in different folder before run the file**
+- **These adjustment had already state in each file as comment clearly, please reference to it**
 
 1. Train the model in BipedalWalker Normal version: just run 'python train_standard.py'
 
@@ -39,7 +39,7 @@ Preparation of environment to run the project:
 
 -----------------------------------------
 # Briefly explanation of each file and folder
-**The models, runs folder and the result that current contain in the main folder is trained on small experience data**
+- **The models, runs folder and the result that current contain in the main folder is trained on small experience data**
 
 1. train_standard.py
     - this file is used to train the agent on normal version environment before transfer learning
