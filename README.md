@@ -40,6 +40,9 @@ Preparation of environment to run the project:
 
 5. To evaluate the training data of the model trained: just run 'pyhton utils.py'
 
+6. To evaluate the result on tensorboard: 'tensorboard --logdir=runs' 
+    - you can access the localhost website provided to evaluate the training result
+
 -----------------------------------------
 # Briefly explanation of each file and folder
 - **The models, runs folder and the result that current contain in the main folder is trained on small experience data**
