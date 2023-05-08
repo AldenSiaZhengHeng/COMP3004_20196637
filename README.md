@@ -14,7 +14,8 @@
 -----------------------------------------
 Preparation of environment to run the project:
 1. The project is run on python virtual environment by entering:
-    - 'python -m venv td3'
+    **You can create your own virtual environment, this project is run on virtual environment that called td3**
+    - 'python -m venv td3' #Create new virtual environment
     - 'source td3/bin/activate' #This is to activate the virtual environment
 
 2. Install the above libraries mentioned.
