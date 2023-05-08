@@ -65,7 +65,7 @@ Preparation of environment to run the project:
     - the rest that contain integer number such as 500, 1000, ... are the model that saved on each interval set.
     - it also contain the figure of train, test result
 
-9. runs
+9. runs folder
     - this file contains the information stored to show on tensorboard
 
 10. exp folder
