@@ -17,10 +17,13 @@
 Preparation of environment to run the project:
 1. The project is run on python virtual environment by entering:
     - **You can create your own virtual environment, this project is run on virtual environment that called td3**
-    - 'python -m venv td3' #Create new virtual environment
-    - 'source td3/bin/activate' #This is to activate the virtual environment
+    - 'python -m venv td3' #Create new virtual environment 
+    - 'source td3/bin/activate' #This is to activate the virtual environment **(this is for MAC environment)**
+    - extra for window env: '. td3/Scripts/activate'
 
 2. Install the above libraries mentioned.
+
+**If you are using window, if there is issue to install box2d library, normally install Microsoft C++ toolbox could fix it**
 
 -----------------------------------------
 # How to run the project
