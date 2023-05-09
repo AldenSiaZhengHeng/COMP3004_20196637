@@ -42,6 +42,9 @@ Preparation of environment to run the project:
 
 6. To evaluate the result on tensorboard: 'tensorboard --logdir=runs' 
     - you can access the localhost website provided to evaluate the training result
+    - for large experience training data: 'tensorboard --logdir=exp/exp_1/runs'
+    - for small experience training data: 'tensorboard --logdir=exp/exp_2/runs'
+
 
 -----------------------------------------
 # Briefly explanation of each file and folder
